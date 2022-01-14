@@ -33,6 +33,6 @@ function isPalindrome(strring) {
 
 /*
   Big O Complexity
-  Time: 
-  Space: 
+  Time: O(n) - have to loop through the length of the input string once
+  Space: O(1) - no new data structures are created
 */
