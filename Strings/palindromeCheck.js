@@ -30,6 +30,7 @@ function isPalindrome(strring) {
     }
   }
 }
+s;
 
 /*
   Big O Complexity
