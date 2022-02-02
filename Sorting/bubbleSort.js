@@ -24,6 +24,6 @@ function bubbleSort(array) {
 
 /*
   Big O Complexity
-  Time: 
+  Time: O(n^2) - you have to loop through the input array twice
   Space: O(1) - no new data structures created
 */
